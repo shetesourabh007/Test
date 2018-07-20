@@ -1,0 +1,36 @@
+1. B. 10
+2. D. Compilation fails due to an error on line 5.
+3. A. Compilation fails.
+4. C.if(b instanceof Feline) System.out.print("3 ");
+5. A. 3
+6. E. 3 4 5
+7. D,G
+8. A. null
+9. B, D
+10. D. s c r
+11. B,C
+12. A,B,C
+13. A,D,E
+14. E. An exception is thrown at runtime.
+15. D. 2 -2
+16. B,C
+17. A. Compilation fails.
+18. C. c c 1 1
+19. C,E
+20. D,F
+21. E. Compilation fails.
+22. E. Regardless of which fragment is inserted, output continues after the Error is thrown.
+23. D,F
+24. A,B,C
+25. A,B
+26. A,B
+27. B,F
+28. C. The program’s minimum execution time is about 9 seconds.
+29. D,F
+30. D Compilation fails due to an error on line 6. 
+31. E. Compilation fails due to an error on line 7. 
+32. A,C,F
+33. A,C
+34. C. 3
+35. E. Compilation fails due to an error on line 8. 
+
